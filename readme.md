@@ -191,13 +191,3 @@ pytest --cov=. --cov-report=html
 
 ---
 
-<div align="center">
-  <p>⭐ Star this repository if you find it helpful!</p>
-  <p>🐛 Found a bug? <a href="https://github.com/SurajKukkipady/fourjunctions_assignment/issues">Report it here</a></p>
-</div>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ using Playwright and Pytest</sub>
-</div>
