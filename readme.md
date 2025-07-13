@@ -10,6 +10,9 @@ pytest-html	Generate HTML reports (optional)
 pytest-xdist	Parallel test execution
 CSV	Data output (for product info)
 
+⚙️ GitHub Actions CI Integration
+This project uses GitHub Actions to automatically run tests and measure code coverage.
+
 🚀 Steps to Execute the Scripts
 Clone this repository:
 git clone https://github.com/SurajKukkipady/fourjunctions_assignment.git
@@ -43,6 +46,7 @@ test_multiple_pages.py	Validates navigation through multiple pages of search res
 test_product_page.py	Tests UI elements on a product page: "Add to Cart", accordion sections, product specs, and immersive view images.
 test_responsiveness.py	Ensures the site renders correctly on desktop, tablet, and mobile viewports.
 test_valid_invalid.py	Performs searches with valid and gibberish keywords to confirm expected results and error handling.
+test_functions.py   Unit tests for utility functions in functions.py.
 
 👤 Author
 Suraj K
