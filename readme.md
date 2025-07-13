@@ -165,15 +165,6 @@ pytest -k "test_product_search"
 This project uses **GitHub Actions** for continuous integration:
 
 - ✅ Automated test execution on push/PR
-- 📊 Code coverage measurement
-- 🔄 Multi-environment testing
-- 📋 Automated reporting
-
-### Workflow Features
-- Runs on multiple OS (Ubuntu, Windows, macOS)
-- Python version matrix testing
-- Automatic dependency installation
-- Test result reporting
 
 ## 📈 Reports
 
@@ -192,16 +183,6 @@ Product data is automatically exported to:
 pytest --cov=. --cov-report=html
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Setup
 ```bash
 # Install development dependencies
@@ -214,15 +195,12 @@ flake8 .
 mypy .
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Suraj Kukkipady**
 - GitHub: [@SurajKukkipady](https://github.com/SurajKukkipady)
-- LinkedIn: [Connect with me](https://linkedin.com/in/suraj-kukkipady)
 
 ---
 
