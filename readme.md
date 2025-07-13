@@ -1,4 +1,4 @@
-Four Junctions Assignment
+Four Junctions Assignment: 
 This repository contains a suite of automated browser tests for the Amazon India website using Playwright and Pytest. It validates key user flows such as searching for products, checking responsiveness, navigating paginated results, and validating product details.
 
 📦 Tools & Frameworks Used
