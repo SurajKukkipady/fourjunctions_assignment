@@ -183,19 +183,6 @@ Product data is automatically exported to:
 pytest --cov=. --cov-report=html
 ```
 
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run linting
-flake8 .
-
-# Run type checking
-mypy .
-```
-
-
 
 ## 👤 Author
 
